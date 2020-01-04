@@ -17,3 +17,7 @@ Eu **culpa cillum** sit _incididunt_ anim.
 ![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png)
 
 [Ver información en Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+
+
+* [Tutorial Markdown en español](https://www.markdowntutorial.com/es/)
+* [Guía Github](https://guides.github.com)
